@@ -1,0 +1,1 @@
+projetos java devem estar nesta pasta incluindo projetos android
